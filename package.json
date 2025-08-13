@@ -1,0 +1,12 @@
+{
+  "name": "provision-mysql",
+  "version": "1.0.0",
+  "description": "مشروع Node.js تجريبي",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "helolaldyar",
+  "license": "ISC",
+  "dependencies": {}
+}
